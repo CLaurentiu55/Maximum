@@ -1,0 +1,92 @@
+:root {
+    --DogShit: 150px;
+    --moreDogShit: 30px;
+    --evenmoreDogShit: 15px;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.custom-grey {
+    background-color: rgb(226, 226, 226) !important;
+    color: rgb(90, 90, 90) !important;
+}
+
+.border-none {
+    border: none;
+}
+
+.padding-btn {
+    padding: 0px 10px !important;
+}
+.max-edit {
+    font-size: xxx-large;
+    font-family: cursive;
+}
+
+.nav-margin {
+    margin-left: 30px;
+}
+
+.marg-top {
+    margin-top: 25px;
+}
+
+.xx-large {
+    font-size: xxx-large !important;
+    margin-top: 10px;
+}
+
+.nr-color {
+    color: rgb(163, 163, 163);
+}
+
+.dogshit {
+    margin-top: 10px;    
+    margin-right: -350px;
+}
+
+.shit {
+    margin-top: 20px;
+    margin-right: -430px;
+}
+
+.nav-width {
+    width: 1536px;
+}
+
+.margin-icon {
+    margin-left: var(--DogShit);
+    font-size: x-large !important;
+    border-left: 1px solid #bbb;
+    padding-left: 30px;
+}
+
+.some-margin {
+    margin-left: var(--moreDogShit);
+}
+
+.input-stil {
+    width: 500px !important;
+    border-radius: 0px !important;
+}
+
+.button-stil {
+    border-radius: 0px !important;
+}
+
+.menu-icon {
+    margin-left: 100px;
+    padding-right: 35px;
+    border-right:1px solid #bbb;
+    font-size: x-large !important;
+}
+
+.form-stil {
+    margin-left: var(--evenmoreDogShit);
+}
