@@ -58,11 +58,12 @@
 
 .nav-width {
     width: 1536px;
+    height: 66px;
 }
 
 .margin-icon {
     margin-left: var(--DogShit);
-    font-size: x-large !important;
+    font-size: xx-large !important;
     border-left: 1px solid #bbb;
     padding-left: 30px;
 }
@@ -84,9 +85,36 @@
     margin-left: 100px;
     padding-right: 35px;
     border-right:1px solid #bbb;
-    font-size: x-large !important;
+    font-size: xx-large !important;
 }
 
 .form-stil {
     margin-left: var(--evenmoreDogShit);
+}
+
+.x-large {
+    font-size: xx-large !important;
+}
+
+.margin {
+    border-left:1px solid #bbb;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+
+.padding {
+    border-left:1px solid #bbb;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.border-right {
+    border-right:1px solid #bbb;
+    margin-right: 20px;
+    padding-right: 20px;
+    margin-top: 6px;
+}
+
+.six-px {
+    margin-top: 6px;
 }
