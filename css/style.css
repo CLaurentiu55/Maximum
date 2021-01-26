@@ -118,3 +118,59 @@
 .six-px {
     margin-top: 6px;
 }
+
+.bbt {
+    padding-bottom: 35px;
+    border-bottom: black solid;
+    margin-bottom: -39px;
+    margin-left: 281px;
+    margin-right: 975px;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.ml-450 {
+    margin-left: 450px;
+}
+
+.bbt2{
+    padding-bottom: 8px;
+    border-bottom: #bbb solid;
+    margin-bottom: -15px;
+    margin-right: -52rem;
+    padding-right: 43rem;
+    padding-left: 28rem;
+}
+
+.mar-right {
+    margin-right: -18rem !important;
+    position: absolute;
+}
+
+.some-position {
+    margin-right: -20rem !important;
+    position: absolute;
+}
+
+.bbt3{
+    padding-bottom: 8px;
+    border-bottom: #bbb solid;
+    margin-bottom: -15px;
+    margin-right: -52rem;
+    padding-right: 40rem;
+    padding-left: 37rem;
+}
+
+.color-white {
+    color: white;
+}
+
+.border {
+    border: 1px solid #bbb;
+}
+
+.max-width {
+    max-width: 25%;
+}
