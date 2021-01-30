@@ -120,11 +120,19 @@
 }
 
 .bbt {
-    padding-bottom: 35px;
+    padding-bottom: 5px;
     border-bottom: black solid;
+    margin-bottom: -36px;
+    margin-left: 12rem;
+    margin-right: 54.9rem;
+}
+
+.bbt2 {
+    padding-bottom: 34px;
+    border-bottom: #bbb solid;
     margin-bottom: -39px;
-    margin-left: 281px;
-    margin-right: 975px;
+    margin-left: 9.2rem;
+    margin-right: 1.4rem;
 }
 
 .position-absolute {
@@ -135,14 +143,6 @@
     margin-left: 450px;
 }
 
-.bbt2{
-    padding-bottom: 8px;
-    border-bottom: #bbb solid;
-    margin-bottom: -15px;
-    margin-right: -52rem;
-    padding-right: 43rem;
-    padding-left: 28rem;
-}
 
 .mar-right {
     margin-right: -18rem !important;
@@ -152,15 +152,6 @@
 .some-position {
     margin-right: -20rem !important;
     position: absolute;
-}
-
-.bbt3{
-    padding-bottom: 8px;
-    border-bottom: #bbb solid;
-    margin-bottom: -15px;
-    margin-right: -52rem;
-    padding-right: 40rem;
-    padding-left: 37rem;
 }
 
 .color-white {
@@ -173,4 +164,12 @@
 
 .max-width {
     max-width: 25%;
+}
+
+.pad-border {
+    padding-left: 31rem;
+}
+
+.mar-border {
+    margin-left: 30px;
 }
