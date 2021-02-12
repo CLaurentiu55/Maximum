@@ -1,5 +1,5 @@
 :root {
-    --DogShit: 150px;
+    --DogShit: 90px;
     --moreDogShit: 30px;
     --evenmoreDogShit: 15px;
 }
@@ -123,16 +123,16 @@
     padding-bottom: 5px;
     border-bottom: black solid;
     margin-bottom: -36px;
-    margin-left: 12rem;
-    margin-right: 54.9rem;
+    margin-left: 38rem;
+    margin-right: -27.1rem;
 }
 
 .bbt2 {
-    padding-bottom: 34px;
+    padding-bottom: 52px;
     border-bottom: #bbb solid;
     margin-bottom: -39px;
     margin-left: 9.2rem;
-    margin-right: 1.4rem;
+    margin-right: 6rem;
 }
 
 .position-absolute {
@@ -172,4 +172,13 @@
 
 .mar-border {
     margin-left: 30px;
+}
+
+.slide-mar {
+    margin-left: 50rem !important;
+    width: 1000px;
+}
+
+.nav-bkg {
+    background-color: #1aa1e0;
 }
