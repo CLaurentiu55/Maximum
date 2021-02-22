@@ -5,11 +5,11 @@
 }
 
 .fr {
-    float: right;
+    float: right !important;
 }
 
 .fl {
-    float: left;
+    float: left !important;
 }
 
 .custom-grey {
@@ -31,6 +31,8 @@
 
 .nav-margin {
     margin-left: 30px;
+    max-width: 30rem;
+    margin-top: 20px;
 }
 
 .marg-top {
@@ -57,7 +59,7 @@
 }
 
 .nav-width {
-    width: 1536px;
+    width: 1519px;
     height: 66px;
 }
 
@@ -181,4 +183,140 @@
 
 .nav-bkg {
     background-color: #1aa1e0;
+}
+
+.menu-edit {
+    width: 38rem;
+    float: left;
+    margin-top: -55rem;
+    margin-left: 90px;
+    border-left: 1px solid rgb(228, 228, 228);
+    border-right: 1px solid rgb(228, 228, 228);
+    border-bottom: 1px solid rgb(228, 228, 228);
+}
+
+.color-blue-deschis {
+    color: rgb(96, 152, 255);
+    font-size: x-large !important;
+}
+
+.color-galben {
+    color: rgb(255, 222, 37);
+    font-size: x-large !important;
+}
+
+.icon-edit {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.fontx {
+    font-size: x-large !important;
+}
+
+.img-edit {
+    max-width: 33px !important;
+}
+
+.border-product {
+    border: 1px solid #bbb;
+}
+
+.width-max {
+    width: 88%;
+    padding-bottom: 100px;
+    margin-left: 90px !important;
+}
+
+.height-50 {
+    height: 500px;
+}
+
+.some-place {
+    padding: 10px 10px 25px 2px;
+}
+
+.casti-place {
+    margin: 10px 55px 10px 55px;
+}
+
+.camera-place {
+    margin: 10px 75px 10px 90px;
+}
+
+.telefon-place {
+    margin: 10px 80px 10px 115px;
+}
+
+.tuns-place {
+    margin: 60px 75px 10px 80px;
+}
+
+.mrgb {
+    margin-bottom: 30px;
+}
+
+.altcevamrgb {
+    margin-bottom: 17px;
+}
+
+.mrgbdiferit {
+    margin-bottom: 35px;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
+.ccc {
+    color: #ccc;
+}
+
+.decor {
+    text-decoration: line-through;
+    color: #ccc;
+}
+
+.some-size {
+    font-size: 15px;
+}
+
+.color-blue {
+    color: #00aaf0;
+}
+
+.mar-top {
+    margin-top: 31px;
+}
+
+.mar-top-0 {
+    margin-top: 0px !important;
+}
+
+.pad-top-50 {
+    padding-top: 50px;
+}
+
+.pad {
+    padding: 0px 22px 50px 17px;
+}
+
+.pad-right {
+    padding-right: 14px;
+}
+
+.pad-btn {
+    padding: 15px 0px 15px 0px !important;
+}
+
+.mar-bottom {
+    margin-bottom: 20px !important;
+}
+
+.color-black {
+    color: black !important;
+}
+
+.move {
+    padding: 20px;
 }
