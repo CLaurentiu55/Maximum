@@ -320,3 +320,110 @@
 .move {
     padding: 20px;
 }
+
+.bbt3 {
+    padding-bottom: 3px;
+    border-bottom: 5px black solid;
+    margin-bottom: -39px;
+    margin-left: 45rem;
+    margin-right: 37.9rem;
+}
+
+.width1 {
+    width: 180px;
+    height: 103px;
+}
+
+.invisible-border {
+    border: white solid;
+    margin: 70px 0px 100px 0px;
+}
+
+.some-width {
+    font-size: 20px;
+}
+
+.pos-ab {
+    position: absolute;
+}
+
+.pad30-top {
+    padding-top: 30px;
+}
+
+.sageata {
+    color: #ccc;
+    font-size: 20px !important;
+}
+
+.pad5 {
+    padding-top: 5px;
+}
+
+.width210 {
+    width: 210px;
+}
+
+.bbt4 {
+    padding-bottom: 52px;
+    border-bottom: #bbb solid;
+    margin-bottom: -39px;
+    margin-left: 7.2rem;
+    margin-right: 6rem;
+}
+
+.border-blue {
+    border-color: #00a4da !important;
+    color: #00a4da !important;
+    border-radius: 0px !important;
+}
+
+.border-black {
+    border-color: #000 !important;
+    color: #000 !important;
+    border-radius: 0px !important;
+}
+
+.buttonwidth {
+    width: 210px !important;
+    margin-right: -5px !important;
+}
+
+.pad30-bottom {
+    padding-bottom: 30px;
+}
+
+.nav-sticky {
+    z-index: 1;
+    position: sticky;
+    top: -15px;
+}
+
+.height40 {
+    height: 40rem;
+}
+
+.maxheight {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.mtop {
+    margin-top: -108px;
+    position: inherit;
+}
+
+.slider-edit {
+    width: 650px;
+}
+
+.margin-rem {
+    margin-top: -32.5rem;
+}
+
+.somecolor {
+    color: #00aaf0 !important;
+    border-color: #00aaf0 !important;
+    border-radius: 0px !important;
+    margin: 30px 0px 50px 61.5rem;
+}
